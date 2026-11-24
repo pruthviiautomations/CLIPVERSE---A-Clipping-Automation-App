@@ -1,0 +1,1 @@
+# CLIPVERSE---A-Clipping-Automation-App
